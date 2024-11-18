@@ -6,5 +6,5 @@ I want to develop in website creation, that's why I'm here. I use such tools:
 - JavaScript
 
 **Pronouns**: He/his
-![Изображение]([https://avatars.dzeninfra.ru/get-zen_doc/1879615/pub_64febfeb2cd63233b875f8e9_64fec3c2b0453c4684c19bc7/orig])
+![Изображение]([https://habrastorage.org/getpro/habr/post_images/54a/473/176/54a4731766e984e0b68ebdc63ed8ded2.gif])
 
