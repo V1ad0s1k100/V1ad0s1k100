@@ -5,5 +5,6 @@ I want to develop in website creation, that's why I'm here. I use such tools:
 - CSS
 - JavaScript
 
-**Pronouns**: He/her
-![Изображение]([https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png](https://avatars.dzeninfra.ru/get-zen_doc/1879615/pub_64febfeb2cd63233b875f8e9_64fec3c2b0453c4684c19bc7/orig) "Coding")
+**Pronouns**: He/his
+![Изображение]([https://avatars.dzeninfra.ru/get-zen_doc/1879615/pub_64febfeb2cd63233b875f8e9_64fec3c2b0453c4684c19bc7/orig])
+
