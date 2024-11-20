@@ -5,7 +5,7 @@ I want to develop in website creation, that's why I'm here. I use such tools:
 - CSS
 - JavaScript
 
-**Pronouns**: He/his
+**Pronouns**: He/him
 
 ![Изображение](https://habrastorage.org/getpro/habr/post_images/54a/473/176/54a4731766e984e0b68ebdc63ed8ded2.gif)
 
